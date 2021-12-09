@@ -1,1 +1,7 @@
-﻿Console.WriteLine("Hello World");
+﻿namespace Character
+{
+    class protagonist
+    {
+        public static string[] protagonists = new string[] {};
+    }
+}
